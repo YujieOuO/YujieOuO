@@ -73,7 +73,7 @@ _Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, **Yujie Zhou**, Tong Wu, Bin Wa
 
 ### 🪜 Open Source Projects
 
-**[Libcom]**[the library of image composition]
+**[Libcom]**[the library of image composition] \
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/libcom)
 
 
