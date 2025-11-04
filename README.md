@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Yujie Zhou.
 
-- A third-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html). I also hold a M.S. degree and a B.S. degree from Renmin University of China.
+- A third-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html), also hold a M.S. degree and a B.S. degree from Renmin University of China.
 - A research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Jiaqi Wang](https://myownskyw7.github.io/) and [Anyi Rao](https://anyirao.com/).
 - 🔍 My current research interest covers Image Generation and Video Generation.
 - 📫 Email is the preferred way to contact me: yujieouo@sjtu.edu.cn.
