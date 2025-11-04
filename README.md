@@ -2,9 +2,9 @@
 
 - Third-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html), also hold a M.S. degree and a B.S. degree from Renmin University of China.
 - Research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Jiaqi Wang](https://myownskyw7.github.io/) and [Anyi Rao](https://anyirao.com/).
-- 🔍 My current research interest covers Image Generation and Video Generation.
+- 📑 My current research interest covers Image Generation and Video Generation.
 - 📫 Email is the preferred way to contact me: yujieouo@sjtu.edu.cn.
-- 🧑 Actively seeking internships in generative modeling.
+- 🔍 Actively seeking internships in generative modeling.
 ----
 
 ### 📚 Selected Publications
@@ -73,7 +73,7 @@ _Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, **Yujie Zhou**, Tong Wu, Bin Wa
 
 ### 🏗️ Open Source Projects
 
-**[Libcom]**: Image composition toolbox: everything you want to know about image composition \
+**[Libcom]**: _Image composition toolbox: everything you want to know about image composition_ \
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/libcom)
 
 
