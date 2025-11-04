@@ -4,8 +4,7 @@
 - Research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Jiaqi Wang](https://myownskyw7.github.io/) and [Anyi Rao](https://anyirao.com/).
 - 🔍 My current research interest covers Image Generation and Video Generation.
 - 📫 Email is the preferred way to contact me: yujieouo@sjtu.edu.cn.
-  
-🧑 Actively seeking internships in generative modeling.
+- 🧑 Actively seeking internships in generative modeling.
 ----
 
 ### 📚 Selected Publications
