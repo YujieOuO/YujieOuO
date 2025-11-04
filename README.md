@@ -71,4 +71,10 @@ _Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, **Yujie Zhou**, Tong Wu, Bin Wa
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/V3Det/V3Det)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/datasets/yhcao/V3Det_Backup)
 
+### 🪜 Open Source Projects
+
+**[Libcom]**[the library of image composition]
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/libcom)
+
+
 ----
