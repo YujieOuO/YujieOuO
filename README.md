@@ -1,10 +1,10 @@
 ## Hi there 👋 I’m Yujie Zhou.
 
-- a third-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html).
-- a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Jiaqi Wang](https://myownskyw7.github.io/) and [Anyi Rao](https://anyirao.com/).
+- A third-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html). I also hold a M.S. degree and a B.S. degree from Renmin University of China.
+- A research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Jiaqi Wang](https://myownskyw7.github.io/) and [Anyi Rao](https://anyirao.com/).
 - 🔍 My current research interest covers Image Generation and Video Generation.
-- 📫 Email is the preferred way to contact me: yujieouo@sjtu.edu.cn.  
-
+- 📫 Email is the preferred way to contact me: yujieouo@sjtu.edu.cn.
+  
 ----
 
 ### 📚 Selected Publications
@@ -66,7 +66,7 @@ _Yibin Wang*, Zhimin Li*, Yuhang Zang*, **Yujie Zhou**, Jiazi Bu, Chunyu Wang, Q
 [![GitHub](https://img.shields.io/badge/Benchmark-UniGenBench-red)](https://github.com/CodeGoat24/UniGenBench)
 
 **[ICCV 2023 Oral]** [V3Det: Vast Vocabulary Visual Detection Dataset](https://arxiv.org/abs/2304.03752) \
-_Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, Yujie Zhou, Tong Wu, Bin Wang, Conghui He, Dahua Lin_ \
+_Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, **Yujie Zhou**, Tong Wu, Bin Wang, Conghui He, Dahua Lin_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2304.03752-b31b1b.svg)](https://arxiv.org/abs/2304.03752)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://v3det.openxlab.org.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/V3Det/V3Det)
