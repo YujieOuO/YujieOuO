@@ -13,7 +13,6 @@
 
 **[ICCV 2025]** [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://arxiv.org/abs/2502.08590) \
 _**Yujie Zhou***, Jiazi Bu*, Pengyang Ling*, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Anyi Rao, Jiaqi Wang, Li Niu_ \
-[![Paper](https://img.shields.io/badge/ICCV-Paper-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_Light-A-Video_Training-free_Video_Relighting_via_Progressive_Light_Fusion_ICCV_2025_paper.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.08590-b31b1b.svg)](https://arxiv.org/abs/2502.08590)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/light-a-video.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Light-A-Video)
