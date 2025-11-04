@@ -70,6 +70,6 @@ _Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, Yujie Zhou, Tong Wu, Bin Wang, 
 [![arXiv](https://img.shields.io/badge/arXiv-2304.03752-b31b1b.svg)](https://arxiv.org/abs/2304.03752)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://v3det.openxlab.org.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/V3Det/V3Det)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-yellow)](https://huggingface.co/datasets/yhcao/V3Det_Backup)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/datasets/yhcao/V3Det_Backup)
 
 ----
