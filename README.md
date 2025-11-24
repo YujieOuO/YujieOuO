@@ -75,6 +75,6 @@ _Jiaqi Wang*, Pan Zhang*, Tao Chu*, Yuhang Cao*, **Yujie Zhou**, Tong Wu, Bin Wa
 
 **[Libcom]**: _Image composition toolbox: everything you want to know about image composition_ \
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/libcom)
-
+[![Static Badge](https://img.shields.io/badge/Online_Workbench-yellow)](http://libcom.ustcnewly.com/)
 
 ----
