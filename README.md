@@ -18,7 +18,7 @@ _**Yujie Zhou***, Jiazi Bu*, Pengyang Ling*, Pan Zhang, Tong Wu, Qidong Huang, J
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Light-A-Video)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/fffiloni/Light-A-Video)
 
-**[arXiv 2025]** [G<sup>2</sup>RPO: Granular GRPO for Precise Reward in Flow Models](https://arxiv.org/abs/2510.01982) \
+**[arXiv 2025]** [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](https://arxiv.org/abs/2510.01982) \
 _**Yujie Zhou***, Pengyang Ling*, Jiazi Bu*, Yibin Wang, Yuhang Zang, Jiaqi Wang, Li Niu, Guangtao Zhai_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2510.01982-b31b1b.svg)](https://arxiv.org/abs/2510.01982)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/g2rpo.github.io/)
