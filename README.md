@@ -31,7 +31,7 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Pan Zhang, Tong Wu, Xiaoyi Dong, Yu
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/hiflow.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi/HiFlow)
 
-**[arXiv 2025]** [DiCache: Let Diffusion Model Determine Its Own Cache](https://arxiv.org/abs/2508.17356) \
+**[ICLR 2026]** [DiCache: Let Diffusion Model Determine Its Own Cache](https://arxiv.org/abs/2508.17356) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Dahua Lin, Jiaqi Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2508.17356-b31b1b.svg)](https://arxiv.org/abs/2508.17356) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/dicache.github.io/)
