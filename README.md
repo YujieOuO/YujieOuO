@@ -49,6 +49,14 @@ _**Yujie Zhou**, Wenwen Qiang, Anyi Rao, Ning Lin, Bing Su, Jiaqi Wang_ \
 
 **🥈 Co-Author Publications**
 
+**[arXiv 2026]** [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.02380) \
+_Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, **Yujie Zhou**, Cheng Jin, Jiaqi Wang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2602.0238-b31b1b.svg)](https://arxiv.org/abs/2602.02380)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://codegoat24.github.io/UnifiedReward/flex)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/CodeGoat24/UnifiedReward)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/collections/CodeGoat24/unifiedreward-flex)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CodeGoat24/UnifiedReward-Flex-SFT-90K)
+
 **[arXiv 2025]** [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701) \
 _Yibin Wang*, Zhimin Li*, Yuhang Zang*, Jiazi Bu, **Yujie Zhou**, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2510.18701-b31b1b.svg)](https://arxiv.org/abs/2510.18701)
