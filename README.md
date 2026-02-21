@@ -11,19 +11,19 @@
 
 **🥇 (Co-) First Author Publications**
 
-**[ICCV 2025]** [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://arxiv.org/abs/2502.08590) \
-_**Yujie Zhou***, Jiazi Bu*, Pengyang Ling*, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Anyi Rao, Jiaqi Wang, Li Niu_ \
-[![arXiv](https://img.shields.io/badge/arXiv-2502.08590-b31b1b.svg)](https://arxiv.org/abs/2502.08590)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/light-a-video.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Light-A-Video)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/fffiloni/Light-A-Video)
-
 **[CVPR 2026]** [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](https://arxiv.org/abs/2510.01982) \
 _**Yujie Zhou***, Pengyang Ling*, Jiazi Bu*, Yibin Wang, Yuhang Zang, Jiaqi Wang, Li Niu, Guangtao Zhai_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2510.01982-b31b1b.svg)](https://arxiv.org/abs/2510.01982)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/g2rpo.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Granular-GRPO)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/yujieouo/G2RPO)
+
+**[ICCV 2025]** [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://arxiv.org/abs/2502.08590) \
+_**Yujie Zhou***, Jiazi Bu*, Pengyang Ling*, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Anyi Rao, Jiaqi Wang, Li Niu_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2502.08590-b31b1b.svg)](https://arxiv.org/abs/2502.08590)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/light-a-video.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Light-A-Video)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/fffiloni/Light-A-Video)
 
 **[NeurIPS 2025]** [HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance](https://arxiv.org/abs/2504.06232) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang_ \
