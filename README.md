@@ -57,6 +57,14 @@ _Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, **Yujie Zhou**, Cheng Jin, Jiaqi W
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/collections/CodeGoat24/unifiedreward-flex)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CodeGoat24/UnifiedReward-Flex-SFT-90K)
 
+**[arXiv 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
+_Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beichen Zhang, Kai Chen, Yuhang Zang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2603.12252-b31b1b.svg)](https://arxiv.org/abs/2603.12252)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://internlm.github.io/EndoCoT/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/InternLM/EndoCoT)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/internlm/EndoCoT)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/internlm/EndoCoT-Data)
+
 **[arXiv 2025]** [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701) \
 _Yibin Wang*, Zhimin Li*, Yuhang Zang*, Jiazi Bu, **Yujie Zhou**, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2510.18701-b31b1b.svg)](https://arxiv.org/abs/2510.18701)
