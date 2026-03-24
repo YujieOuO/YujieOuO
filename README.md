@@ -9,7 +9,7 @@
 
 ### 📚 Selected Publications
 
-**🥇 (Co-) First Author Publications**
+**🥇 First Author Publications**
 
 **[CVPR 2026]** [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](https://arxiv.org/abs/2510.01982) \
 _**Yujie Zhou***, Pengyang Ling*, Jiazi Bu*, Yibin Wang, Yuhang Zang, Jiaqi Wang, Li Niu, Guangtao Zhai_ \
@@ -39,6 +39,8 @@ _**Yujie Zhou**, Wenwen Qiang, Anyi Rao, Ning Lin, Bing Su, Jiaqi Wang_ \
 _**Yujie Zhou***, Pengyang Ling*, Jiazi Bu*, Bingjie Gao, Li Niu_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2603.20382-b31b1b.svg)](https://arxiv.org/abs/2603.20382)
 
+**🥈 Co-First Author Publications**
+
 **[NeurIPS 2025]** [HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance](https://arxiv.org/abs/2504.06232) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232) 
@@ -57,7 +59,7 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/mvgrpo.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi)
 
-**🥈 Co-Author Publications**
+**🥉 Co-Author Publications**
 
 **[arXiv 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
 _Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beichen Zhang, Kai Chen, Yuhang Zang_ \
