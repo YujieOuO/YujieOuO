@@ -25,6 +25,16 @@ _**Yujie Zhou***, Jiazi Bu*, Pengyang Ling*, Pan Zhang, Tong Wu, Qidong Huang, J
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Light-A-Video)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/fffiloni/Light-A-Video)
 
+**[AAAI 2023 Oral]** [Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences](https://arxiv.org/abs/2302.09018) \
+_**Yujie Zhou**, Haodong Duan, Anyi Rao, Bing Su, Jiaqi Wang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2302.09018-b31b1b.svg)](https://arxiv.org/abs/2302.09018) 
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YujieOuO/PSTL)
+
+**[ACMMM 2023]** [Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization](https://arxiv.org/abs/2308.03950) \
+_**Yujie Zhou**, Wenwen Qiang, Anyi Rao, Ning Lin, Bing Su, Jiaqi Wang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2308.03950-b31b1b.svg)](https://arxiv.org/abs/2308.03950) 
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YujieOuO/SMIE)
+
 **[ICME 2026]** [Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier](https://arxiv.org/abs/2603.20382) \
 _**Yujie Zhou***, Pengyang Ling*, Jiazi Bu*, Bingjie Gao, Li Niu_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2603.20382-b31b1b.svg)](https://arxiv.org/abs/2603.20382)
@@ -46,16 +56,6 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei
 [![arXiv](https://img.shields.io/badge/arXiv-2603.12648-b31b1b.svg)](https://arxiv.org/abs/2603.12648) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/mvgrpo.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi)
-
-**[AAAI 2023 Oral]** [Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences](https://arxiv.org/abs/2302.09018) \
-_**Yujie Zhou**, Haodong Duan, Anyi Rao, Bing Su, Jiaqi Wang_ \
-[![arXiv](https://img.shields.io/badge/arXiv-2302.09018-b31b1b.svg)](https://arxiv.org/abs/2302.09018) 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YujieOuO/PSTL)
-
-**[ACMMM 2023]** [Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization](https://arxiv.org/abs/2308.03950) \
-_**Yujie Zhou**, Wenwen Qiang, Anyi Rao, Ning Lin, Bing Su, Jiaqi Wang_ \
-[![arXiv](https://img.shields.io/badge/arXiv-2308.03950-b31b1b.svg)](https://arxiv.org/abs/2308.03950) 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YujieOuO/SMIE)
 
 **🥈 Co-Author Publications**
 
