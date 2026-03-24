@@ -25,6 +25,10 @@ _**Yujie Zhou***, Jiazi Bu*, Pengyang Ling*, Pan Zhang, Tong Wu, Qidong Huang, J
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/Light-A-Video)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/fffiloni/Light-A-Video)
 
+**[ICME 2026]** [Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier](https://arxiv.org/abs/2603.20382) \
+_Yujie Zhou*, Pengyang Ling*, **Jiazi Bu***, Bingjie Gao, Li Niu_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2603.20382-b31b1b.svg)](https://arxiv.org/abs/2603.20382)
+
 **[NeurIPS 2025]** [HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance](https://arxiv.org/abs/2504.06232) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232) 
