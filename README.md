@@ -7,7 +7,7 @@
 - [2023.10 – 2026.03] Research intern at [**Shanghai AI Laboratory**](https://www.shlab.org.cn/), advised by [Jiaqi Wang](https://myownskyw7.github.io/) and [Anyi Rao](https://anyirao.com/).
   
 - [2026-4 - Present]  Research intern (Qingyun Program) at [**Tencent, Youtu Lab**](https://open.youtu.qq.com/),
-advised by [Weijian Cao](https://scholar.google.com/citations?user=KPava2YAAAAJ&hl=zh-CN) and Chengjie Wang(https://scholar.google.com/citations?user=fqte5H4AAAAJ&hl=zh-CN).
+advised by [Weijian Cao](https://scholar.google.com/citations?user=KPava2YAAAAJ&hl=zh-CN) and [Chengjie Wang](https://scholar.google.com/citations?user=fqte5H4AAAAJ&hl=zh-CN).
 
 - 📑 Current research interest covers Image and Video Generation, Diffusion RL for post-training.
 
