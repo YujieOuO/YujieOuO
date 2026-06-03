@@ -69,6 +69,12 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/mvgrpo.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi)
 
+**[arXiv 2026]** [Pave-GRPO: Beyond Instantaneous Guidance through Principled Average Velocity Decomposition](https://arxiv.org/abs/2606.01636) \
+_Pengyang Ling*, Jiazi Bu*, **Yujie Zhou***, Yibin Wang, Zhenyu Hu, Zihan Zhang, Yi Jin, Huaian Chen, Yuhang Zang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2606.01636-b31b1b.svg)](https://arxiv.org/abs/2606.01636) 
+[![Project Page](https://img.shields.io/badge/Project-Website-green)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
 **🥉 Co-Author Publications**
 
 **[arXiv 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
