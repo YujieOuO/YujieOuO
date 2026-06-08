@@ -77,6 +77,12 @@ _Pengyang Ling*, Jiazi Bu*, **Yujie Zhou***, Yibin Wang, Zhenyu Hu, Zihan Zhang,
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](#)
 
+**[arXiv 2026]** [AdaGRPO: A Capability-Aware Adaptive Enhancement for Flow-based GRPO](https://arxiv.org/abs/2606.06828) \
+_Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei, Xiaohang Zhan, Jiaqi Wang, Tong Wu, Xingang Pan, Dahua Lin_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2606.06828-b31b1b.svg)](https://arxiv.org/abs/2606.06828) 
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](#)
+
 **🥉 Co-Author Publications**
 
 **[arXiv 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
