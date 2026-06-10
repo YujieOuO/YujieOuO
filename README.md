@@ -94,7 +94,7 @@ _Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beich
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/internlm/EndoCoT-Data)
 
 **[arXiv 2026]** [CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning](https://arxiv.org/abs/2606.09393) \
-_Penghui Yang*, Long Xing*, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Yibin Wang, Yujie Zhou, Jiazi Bu, Jianze Liang, Qidong Huang, Jiaqi Wang, Feng Wu, Dahua Lin_ \
+_Penghui Yang*, Long Xing*, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Yibin Wang, **Yujie Zhou**, Jiazi Bu, Jianze Liang, Qidong Huang, Jiaqi Wang, Feng Wu, Dahua Lin_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2606.09393-b31b1b.svg)](https://arxiv.org/abs/2606.09393)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/InternLM/CapRL/tree/main/CapRL%2B%2B/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/InternLM/CapRL/tree/main/CapRL%2B%2B)
