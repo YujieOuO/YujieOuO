@@ -65,7 +65,7 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Dahua Lin,
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/dicache.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi/DiCache)
 
-**[arXiv 2026]** [From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space](https://arxiv.org/abs/2603.12648) \
+**[ECCV 2026]** [From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space](https://arxiv.org/abs/2603.12648) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei, Xiaohang Zhan, Jiaqi Wang, Tong Wu, Xingang Pan, Dahua Lin_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2603.12648-b31b1b.svg)](https://arxiv.org/abs/2603.12648) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/mvgrpo.github.io/)
@@ -85,7 +85,7 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei
 
 **🥉 Co-Author Publications**
 
-**[arXiv 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
+**[ECCV 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
 _Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beichen Zhang, Kai Chen, Yuhang Zang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2603.12252-b31b1b.svg)](https://arxiv.org/abs/2603.12252)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://internlm.github.io/EndoCoT/)
