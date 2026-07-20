@@ -93,6 +93,13 @@ _Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beich
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/internlm/EndoCoT)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/internlm/EndoCoT-Data)
 
+**[CVPR 2025]** [The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation](https://arxiv.org/abs/2504.11739) \
+_Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beichen Zhang, Kai Chen, Yuhang Zang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2504.11739-b31b1b.svg)](arxiv.org/abs/2504.11739)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Vchitect/RAPO)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/bingjie/RAPO)
+
 **[arXiv 2026]** [CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning](https://arxiv.org/abs/2606.09393) \
 _Penghui Yang*, Long Xing*, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Yibin Wang, **Yujie Zhou**, Jiazi Bu, Jianze Liang, Qidong Huang, Jiaqi Wang, Feng Wu, Dahua Lin_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2606.09393-b31b1b.svg)](https://arxiv.org/abs/2606.09393)
