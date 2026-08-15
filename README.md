@@ -71,12 +71,14 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei
 
 **[arXiv 2026]** [Pave-GRPO: Beyond Instantaneous Guidance through Principled Average Velocity Decomposition](https://arxiv.org/abs/2606.01636) \
 _Pengyang Ling*, Jiazi Bu*, **Yujie Zhou***, Yibin Wang, Zhenyu Hu, Zihan Zhang, Yi Jin, Huaian Chen, Yuhang Zang_ \
-[![arXiv](https://img.shields.io/badge/arXiv-2606.01636-b31b1b.svg)](https://arxiv.org/abs/2606.01636) 
+[![arXiv](https://img.shields.io/badge/arXiv-2606.01636-b31b1b.svg)](https://arxiv.org/abs/2606.01636)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi/GRPO-Series)
 
 **[arXiv 2026]** [AdaGRPO: A Capability-Aware Adaptive Enhancement for Flow-based GRPO](https://arxiv.org/abs/2606.06828) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei, Xiaohang Zhan, Jiaqi Wang, Tong Wu, Xingang Pan, Dahua Lin_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2606.06828-b31b1b.svg)](https://arxiv.org/abs/2606.06828) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/adagrpo.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi/GRPO-Series)
 
 **[arXiv 2026]** [HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models](https://arxiv.org/abs/2608.13205) \
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Xuanlang Dai, Shengyuan Ding, Tianyi Wei, Xiaohang Zhan, Jiaqi Wang, Tong Wu, Dahua Lin, Xingang Pan_ \
