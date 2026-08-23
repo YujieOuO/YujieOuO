@@ -67,7 +67,6 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Dahua Lin,
 _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Tianyi Wei, Xiaohang Zhan, Jiaqi Wang, Tong Wu, Xingang Pan, Dahua Lin_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2603.12648-b31b1b.svg)](https://arxiv.org/abs/2603.12648) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/mvgrpo.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi)
 
 **[arXiv 2026]** [Pave-GRPO: Beyond Instantaneous Guidance through Principled Average Velocity Decomposition](https://arxiv.org/abs/2606.01636) \
 _Pengyang Ling*, Jiazi Bu*, **Yujie Zhou***, Yibin Wang, Zhenyu Hu, Zihan Zhang, Yi Jin, Huaian Chen, Yuhang Zang_ \
