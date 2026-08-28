@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Yujie Zhou.
 
-- Third-year Ph.D. student at **Shanghai Jiao Tong University**, advised by Prof. [Niu Li](https://www.ustcnewly.com/).
+- Final-year Ph.D. student at **Shanghai Jiao Tong University**, advised by Prof. [Niu Li](https://www.ustcnewly.com/).
 
 - He also hold a M.S. degree and a B.S. degree from **Renmin University of China** _(Gaoling School of Artificial Intelligence)_.
 
@@ -13,7 +13,7 @@ advised by [Weijian Cao](https://scholar.google.com/citations?user=KPava2YAAAAJ&
 
 - 📫 Email is the preferred way to contact him: yujieouo@sjtu.edu.cn.
 
-- 🔍 Actively seeking internships in generative modeling.
+- 🔍 Actively seeking full-time opportunities in generative modeling.
 
 ----
 
