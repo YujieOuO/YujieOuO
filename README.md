@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Yujie Zhou.
 
-- Final-year Ph.D. student at **Shanghai Jiao Tong University**, advised by Prof. [Niu Li](https://www.ustcnewly.com/).
+- Final-year(2023.9 ~ 2027.6) Ph.D. student at **Shanghai Jiao Tong University**, advised by Prof. [Niu Li](https://www.ustcnewly.com/).
 
 - He also hold a M.S. degree and a B.S. degree from **Renmin University of China** _(Gaoling School of Artificial Intelligence)_.
 
