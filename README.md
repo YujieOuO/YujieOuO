@@ -110,7 +110,7 @@ _Yibin Wang, Zehan Wang, Junshu Tang, Zhimin Li, Yujie Zhou, Jiazi Bu, Pengyang 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://codegoat24.github.io/WorldReward/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/CodeGoat24/WorldReward)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/CodeGoat24/WorldReward)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-yellow)](https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-yellow)](https://huggingface.co/datasets/CodeGoat24/WorldReward-Bench)
 
 **[arXiv 2026]** [CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning](https://arxiv.org/abs/2606.09393) \
 _Penghui Yang*, Long Xing*, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Yibin Wang, **Yujie Zhou**, Jiazi Bu, Jianze Liang, Qidong Huang, Jiaqi Wang, Feng Wu, Dahua Lin_ \
@@ -118,7 +118,7 @@ _Penghui Yang*, Long Xing*, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Yibin Wang, **
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/InternLM/CapRL/tree/main/CapRL%2B%2B/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/InternLM/CapRL/tree/main/CapRL%2B%2B)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/internlm/CapRL-Video-4B)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CodeGoat24/WorldReward-Bench)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/collections/long-xing1/caprl)
 
 **[arXiv 2026]** [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.02380) \
 _Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, **Yujie Zhou**, Cheng Jin, Jiaqi Wang_ \
