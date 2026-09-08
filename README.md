@@ -106,7 +106,7 @@ _Bingjie Gao, Xinyu Gao, Xiaoxue Wu, **Yujie Zhou**, Yu Qiao, Li Niu, Xinyuan Ch
 
 **[arXiv 2026]** [WorldReward: Reward Modeling for Camera-Conditioned World Models](https://github.com/CodeGoat24/WorldReward/blob/main/WorldReward.pdf) \
 _Yibin Wang, Zehan Wang, Junshu Tang, Zhimin Li, Yujie Zhou, Jiazi Bu, Pengyang Ling, Feng Han, Zhixiong Zhang, Long Xing, Shengyuan Ding, Ziang Li, Cheng Jin, Yuhang Zang, Jiaqi Wang, Tianyu Pang_ \
-[![arXiv](https://img.shields.io/badge/arXiv-2602.0238-b31b1b.svg)](https://github.com/CodeGoat24/WorldReward/blob/main/WorldReward.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.0238-b31b1b.svg)](https://arxiv.org/abs/2609.03952)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://codegoat24.github.io/WorldReward/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/CodeGoat24/WorldReward)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/CodeGoat24/WorldReward)
