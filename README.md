@@ -87,6 +87,10 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Xuanlang D
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi/HPSD)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Bujiazi/HPSD/tree/main)
 
+**[arXiv 2026]** [CapField-OPD: Learning Continuous Capability Fields via Joint-Anchored Multi-Teacher On-Policy Distillation for Flow Models](https://arxiv.org/abs/2609.34658) \
+_Pengyang Ling*, Jiazi Bu*, **Yujie Zhou***, Yibin Wang, Zeqiang Lai, Xiaoxiao Ma, Yi Jin, Huaian Chen, Yuhang Zang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2609.34658-b31b1b.svg)](https://arxiv.org/abs/2609.34658) 
+
 **🥉 Co-Author Publications**
 
 **[ECCV 2026]** [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252) \
