@@ -108,6 +108,13 @@ _Bingjie Gao, Xinyu Gao, Xiaoxue Wu, **Yujie Zhou**, Yu Qiao, Li Niu, Xinyuan Ch
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Vchitect/RAPO)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/bingjie/RAPO)
 
+**[arXiv 2026]** [InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators](https://arxiv.org/abs/2610.13944) \
+_Xuanlang Dai*, Jiazi Bu*, Yujie Zhou, Yuhong Liu, Beichen Zhang, Penghui Yang, Ziyu Liu, Yuhang Zang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2610.13944-b31b1b.svg)](https://arxiv.org/abs/2610.13944)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://internlm.github.io/InstantFusion/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/InternLM/InstantFusion)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/XuanlangDai/InstantFusion)
+
 **[arXiv 2026]** [WorldReward: Reward Modeling for Camera-Conditioned World Models](https://github.com/CodeGoat24/WorldReward/blob/main/WorldReward.pdf) \
 _Yibin Wang, Zehan Wang, Junshu Tang, Zhimin Li, Yujie Zhou, Jiazi Bu, Pengyang Ling, Feng Han, Zhixiong Zhang, Long Xing, Shengyuan Ding, Ziang Li, Cheng Jin, Yuhang Zang, Jiaqi Wang, Tianyu Pang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2602.0238-b31b1b.svg)](https://arxiv.org/abs/2609.03952)
