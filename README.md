@@ -139,7 +139,7 @@ _Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, **Yujie Zhou**, Cheng Jin, Jiaqi W
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/collections/CodeGoat24/unifiedreward-flex)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CodeGoat24/UnifiedReward-Flex-SFT-90K)
 
-**[arXiv 2025]** [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701) \
+**[TMLR 2026]** [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701) \
 _Yibin Wang*, Zhimin Li*, Yuhang Zang*, Jiazi Bu, **Yujie Zhou**, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2510.18701-b31b1b.svg)](https://arxiv.org/abs/2510.18701)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://codegoat24.github.io/UniGenBench/)
