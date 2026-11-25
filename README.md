@@ -103,6 +103,14 @@ _Xuanlang Dai, **Yujie Zhou**, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beich
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/internlm/EndoCoT)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/internlm/EndoCoT-Data)
 
+
+**[TMLR 2026]** [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701) \
+_Yibin Wang*, Zhimin Li*, Yuhang Zang*, Jiazi Bu, **Yujie Zhou**, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang_ \
+[![arXiv](https://img.shields.io/badge/arXiv-2510.18701-b31b1b.svg)](https://arxiv.org/abs/2510.18701)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://codegoat24.github.io/UniGenBench/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/CodeGoat24/UniGenBench)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-yellow)](https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard)
+
 **[CVPR 2025]** [The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation](https://arxiv.org/abs/2504.11739) \
 _Bingjie Gao, Xinyu Gao, Xiaoxue Wu, **Yujie Zhou**, Yu Qiao, Li Niu, Xinyuan Chen, Yaohui Wang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2504.11739-b31b1b.svg)](arxiv.org/abs/2504.11739)
@@ -140,13 +148,6 @@ _Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, **Yujie Zhou**, Cheng Jin, Jiaqi W
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/CodeGoat24/UnifiedReward)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/collections/CodeGoat24/unifiedreward-flex)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CodeGoat24/UnifiedReward-Flex-SFT-90K)
-
-**[TMLR 2026]** [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701) \
-_Yibin Wang*, Zhimin Li*, Yuhang Zang*, Jiazi Bu, **Yujie Zhou**, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang_ \
-[![arXiv](https://img.shields.io/badge/arXiv-2510.18701-b31b1b.svg)](https://arxiv.org/abs/2510.18701)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://codegoat24.github.io/UniGenBench/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/CodeGoat24/UniGenBench)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-yellow)](https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard)
 
 **[arXiv 2025]** [Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning](https://arxiv.org/abs/2508.20751) \
 _Yibin Wang*, Zhimin Li*, Yuhang Zang*, **Yujie Zhou**, Jiazi Bu, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang_ \
