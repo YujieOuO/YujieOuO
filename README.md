@@ -85,11 +85,13 @@ _Jiazi Bu*, Pengyang Ling*, **Yujie Zhou***, Yibin Wang, Yuhang Zang, Xuanlang D
 [![arXiv](https://img.shields.io/badge/arXiv-2608.13205-b31b1b.svg)](https://arxiv.org/abs/2608.13205) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/hpsd.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Bujiazi/HPSD)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Bujiazi/HPSD/tree/main)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Bujiazi/HPSD)
 
 **[arXiv 2026]** [CapField-OPD: Learning Continuous Capability Fields via Joint-Anchored Multi-Teacher On-Policy Distillation for Flow Models](https://arxiv.org/abs/2609.34658) \
 _Pengyang Ling*, Jiazi Bu*, **Yujie Zhou***, Yibin Wang, Zeqiang Lai, Xiaoxiao Ma, Yi Jin, Huaian Chen, Yuhang Zang_ \
 [![arXiv](https://img.shields.io/badge/arXiv-2609.34658-b31b1b.svg)](https://arxiv.org/abs/2609.34658) 
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/LPengYang/CapField-OPD)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Yang18/CapField-OPD)
 
 **🥉 Co-Author Publications**
 
